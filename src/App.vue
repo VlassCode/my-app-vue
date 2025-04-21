@@ -14,6 +14,9 @@ import TheWelcome from "./components/TheWelcome.vue";
     />
 
     <div class="wrapper">
+      <div>
+        <p>This Vue project is by VlassCode.</p>
+      </div>
       <HelloWorld msg="You did it!" />
     </div>
   </header>
